@@ -21,7 +21,7 @@ The model contains the following tables:
 
 ## Model Structure
 
-![Data Model](../dashboard/screenshots/data_model.png)
+![Data Model](../dashboard/screenshot/data_model.png)
 
 The model is centered around the `Fact_PostPerformance` table,
 with dimension tables providing descriptive attributes used for
