@@ -14,15 +14,15 @@ The dashboard focuses on three analytical perspectives:
 
 ### Executive Overview
 
-![Executive Overview](dashboard/screenshots/executive_overview.png)
+![Executive Overview](dashboard/screenshot/executive_overview.png)
 
 ### Platform Performance
 
-![Platform Performance](dashboard/screenshots/platform_performance.png)
+![Platform Performance](dashboard/screenshot/platform_performance.png)
 
 ### Content Performance
 
-![Content Performance](dashboard/screenshots/content_performance.png)
+![Content Performance](dashboard/screenshot/content_performance.png)
 
 ---
 
